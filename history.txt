@@ -1,0 +1,112 @@
+    1  git config --list --show-origin
+    2  git confit --global user.name "skolten27"
+    3  git conig -- global user.name "skolten27"
+    4  git config --global user.name "skolten27"
+    5  git config --global user.email skolten27@gmail.com
+    6  git config -- list
+    7  git config --list
+    8  git --version
+    9  git config --global user.name "Kolten Smith"
+   10  git config --global init.defaultBranch main
+   11  git --version
+   12  git status
+   13  git config --list
+   14  git config --global init.defaultBranch main
+   15  git config --list
+   22  git init
+   24  cd git-practice-skolten27
+   25  cd git-practice-skolten27
+   26  git init
+   32  git status
+   33  cd git-practice-skolten27
+   34  git status
+   41  cd git-practice-skolten27
+   42  git touch file_1.txt
+   46  git status
+   47  git commit -m 'Add file_1.txt'
+   48  git add
+   49  git add file_1.txt
+   50  git add file_2.txt
+   51  git status
+   52  git commit -m "Add file-1 and file_2"
+   53  git status
+   54  git log
+   55  git status
+   56  git add file_1.txt
+   57  git status
+   58  git commit -m "Added explanation text to file1"
+   59  git status
+   60  git add file_2.txt
+   61  git commit -m "Added explanatory text to file2"
+   62  git log
+   65  git add Readme.md
+   66  git commit -m "adding Readme file with the name of the repository and explanation of the repo"
+   67  touch .gitignore
+   68  git add .gitignore
+   69  git commit -m "created gitignore file and added API keys"
+   70  git status
+   72  git status
+   73  git branch features
+   74  git log
+   75  git checkout features
+   76  cd 'OneDrive - Momentum Loans\Documents\School\Stat 386\git-practice-skolten27'
+   77  git checkout features
+   78  git log
+   80  git add new_features.txt
+   81  git commit -m "add empty file"
+   82  git add new_features.txt
+   83  git commit -m "added explanatory text to new_features.txt"
+   84  git checkout main
+   86  git add file_1.txt
+   87  git commit -m 'add a new line of text'
+   88  git merge features
+   89  git checkout features
+   90  git status
+   91  git remove new_features.txt
+   92  git remote add origin [200~git@github.com:skolten27/lab1-practice-skolten27.git~
+   93  git add new_feature.txt
+   94  git add new_features.txt
+   95  git commit -m "changing new features to test merge
+   97  git status
+   98  git cheackout features
+   99  git checkout features
+  100  git add new_features.txt
+  101  git commit -m 'changing new features text on features branch'
+  102  git checkout main
+  103  git merge features
+  104  git merge features
+  105  git add new_features.txt
+  106  git commit -m "resolving conflict with new_features"
+  107  git merge features
+  108  git branch -d features
+  117  cd git-practice-skolten27
+  118  git remote add origin [200~git@github.com:skolten27/git-practice-skolten27.git
+  119  git push -u origin main
+  120  git remote add origin git@github.com:skolten27/git-practice-skolten27.git
+  121  git push -u origin main
+  122  git push -u origin main
+  125  git push -u origin main
+  135  cd git-practice-skolten27
+  136  git push -u origin main
+  137  git remote -v
+  138  git branch
+  139  ssh -vt git@github.com
+  142  git push -u origin main
+  143  git remote -v
+  144  git remote set-url origin git@github.com:skolten27/lab1-practice-skolten27.git
+  145  git remote -v
+  146  git push -u origin main
+  147  git log
+  150  git clone git@github.com:skolten27/git-practice-wilcobry.git
+  151  git branch feature-skolten27
+  152  cd git-practice-wilcobry
+  153  git branch feature-skolten27
+  154  git checkout feature-skolten27
+  155  git commit
+  156  git add file1.txt
+  157  git commit
+  158  git push origin feature-skolten27
+  161  cd git-practice-skolten27
+  162  git pull
+  163  git log --oneline > gitlog.txt
+  164  history | grep git > history.txt

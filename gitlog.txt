@@ -1,0 +1,13 @@
+6773d1f Merge pull request #1 from wilcobry/feature-wilcobry
+b92ef96 added file file3_new.txt
+9526986 resolving conflict with new_features
+18ba8ba changing new features text on features branch
+122cab8 changing new features to test merge
+f0af083 add a new line of text
+043dbc9 added explanatory text to new_features.txt
+10ea2be add empty file
+33d9c5a created gitignore file and added API keys
+9c01b74 adding Readme file with the name of the repository and explanation of the repo
+eac1e40 Added explanatory text to file2
+41588cf Added explanation text to file1
+8284b11 Add file-1 and file_2
